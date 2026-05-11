@@ -1,0 +1,9 @@
+{
+  "name": "Strong Kiddies Nursery and Primary School",
+  "description": "A premium, emotionally engaging school website for Strong Kiddies Nursery and Primary School, Lagos. Designed for high conversion, academic excellence, and trust.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
